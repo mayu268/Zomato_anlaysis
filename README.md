@@ -39,5 +39,4 @@ This helps in:
 * Highest Voted Restaurant: Identified the most popular restaurant based on votes.
 * Ratings: Most restaurants fall within the 3.5–4 rating range, showing moderate to good customer satisfaction.
 * Cost Preferences: Couples generally prefer restaurants with affordable mid-range costs.
-
-Cost Analysis → Explored approximate cost for couples.
+* Cost Analysis → Explored approximate cost for couples.
