@@ -1,7 +1,7 @@
-##Title
+## Title
 Zomato Restaurant Data Analysis Using Python
 
-#Project Objective
+# Project Objective
 The objective of this project is to analyze Zomato’s restaurant dataset and extract meaningful insights about customer preferences and restaurant trends.
 This helps in:
 * Understanding which restaurant types are most popular
